@@ -1,6 +1,9 @@
 one
 1
 modified
+<<<<<<< HEAD
 
 
 hello
+=======
+
